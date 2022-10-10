@@ -1,4 +1,4 @@
-# 2021 git study
+# 2022 git study
 
 ## git安装
     windows安装：一路确认即可
